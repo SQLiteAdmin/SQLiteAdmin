@@ -3,7 +3,11 @@
 #### Installation and Running
 ```bash
 git clone https://github.com/SQLiteAdmin/SQLiteAdmin.git
+```
+```bash
 cd SQLiteAdmin
+```
+```bash
 php -S localhost:8088
 ```
 <!--
