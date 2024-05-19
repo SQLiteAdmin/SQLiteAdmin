@@ -1,3 +1,5 @@
+### SQLite Admin or SQLite Viewer
+
 * A simple SQLite Admin and SQLite Viewer for PHP developers/development.
 
 #### Installation and Running
