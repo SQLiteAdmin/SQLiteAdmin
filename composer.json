@@ -1,0 +1,30 @@
+{
+    "name": "sqlite-admin/sqlite-admin",
+    "description": "A simple SQLite Admin or SQLite viewer.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Tests\\": "tests/"
+      }
+    },
+    "authors": [
+        {
+            "name": "CodeWithSushil",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+      "php": "^8.0"
+    },
+    "require-dev": {
+      "phpstan/phpstan": "*"
+    }
+}
