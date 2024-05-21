@@ -22,9 +22,17 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-      "php": "^8.0"
+      "php": "^8.0",
+        "twbs/bootstrap-icons": "^1.11",
+        "twbs/bootstrap": "^5.3"
     },
     "require-dev": {
-      "phpstan/phpstan": "*"
+      "phpstan/phpstan": "*",
+        "pestphp/pest": "^2.34"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
     }
 }
