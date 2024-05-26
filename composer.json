@@ -3,6 +3,7 @@
     "description": "A simple SQLite Admin or SQLite viewer.",
     "type": "project",
     "license": "MIT",
+    "keywords": ["SQLite", "Admin"],
     "autoload": {
         "psr-4": {
             "App\\": "app/"
