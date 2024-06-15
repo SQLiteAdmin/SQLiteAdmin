@@ -23,9 +23,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-      "php": "^8.0",
-        "twbs/bootstrap-icons": "^1.11",
-        "twbs/bootstrap": "^5.3"
+      "php": "^8.0"
     },
     "require-dev": {
       "phpstan/phpstan": "*",
