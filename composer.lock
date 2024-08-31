@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "831a545ed7761b63394084c89577d406",
+    "content-hash": "12a090d7fb378ebd62573c8a08539e9f",
     "packages": [
         {
             "name": "psr/container",
@@ -3673,7 +3673,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
