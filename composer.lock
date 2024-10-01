@@ -1521,7 +1521,6 @@
         },
         {
             "name": "pestphp/pest",
-<<<<<<< HEAD
             "version": "v3.2.4",
             "source": {
                 "type": "git",
@@ -1532,18 +1531,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/pestphp/pest/zipball/5fe79d9c18a674e9cce2f36f365516c26ae87b49",
                 "reference": "5fe79d9c18a674e9cce2f36f365516c26ae87b49",
-=======
-            "version": "v3.2.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/pestphp/pest.git",
-                "reference": "48a1de273fe232e370058b96ac06e460ae392707"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/pestphp/pest/zipball/48a1de273fe232e370058b96ac06e460ae392707",
-                "reference": "48a1de273fe232e370058b96ac06e460ae392707",
->>>>>>> ab44ec3756eb468ac88cc6eb9e8c76fa68f60c46
                 "shasum": ""
             },
             "require": {
@@ -1629,11 +1616,7 @@
             ],
             "support": {
                 "issues": "https://github.com/pestphp/pest/issues",
-<<<<<<< HEAD
                 "source": "https://github.com/pestphp/pest/tree/v3.2.4"
-=======
-                "source": "https://github.com/pestphp/pest/tree/v3.2.1"
->>>>>>> ab44ec3756eb468ac88cc6eb9e8c76fa68f60c46
             },
             "funding": [
                 {
@@ -1645,11 +1628,7 @@
                     "type": "github"
                 }
             ],
-<<<<<<< HEAD
             "time": "2024-09-26T22:53:39+00:00"
-=======
-            "time": "2024-09-23T13:09:55+00:00"
->>>>>>> ab44ec3756eb468ac88cc6eb9e8c76fa68f60c46
         },
         {
             "name": "pestphp/pest-plugin",
@@ -2158,7 +2137,6 @@
         },
         {
             "name": "phpstan/phpdoc-parser",
-<<<<<<< HEAD
             "version": "1.32.0",
             "source": {
                 "type": "git",
@@ -2169,18 +2147,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/6ca22b154efdd9e3c68c56f5d94670920a1c19a4",
                 "reference": "6ca22b154efdd9e3c68c56f5d94670920a1c19a4",
-=======
-            "version": "1.31.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "249f15fb843bf240cf058372dad29e100cee6c17"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/249f15fb843bf240cf058372dad29e100cee6c17",
-                "reference": "249f15fb843bf240cf058372dad29e100cee6c17",
->>>>>>> ab44ec3756eb468ac88cc6eb9e8c76fa68f60c46
                 "shasum": ""
             },
             "require": {
@@ -2212,15 +2178,9 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-<<<<<<< HEAD
                 "source": "https://github.com/phpstan/phpdoc-parser/tree/1.32.0"
             },
             "time": "2024-09-26T07:23:32+00:00"
-=======
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.31.0"
-            },
-            "time": "2024-09-22T11:32:18+00:00"
->>>>>>> ab44ec3756eb468ac88cc6eb9e8c76fa68f60c46
         },
         {
             "name": "phpstan/phpstan",
