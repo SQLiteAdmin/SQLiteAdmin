@@ -33,7 +33,7 @@
     },
     "require-dev": {
       "phpstan/phpstan": "^1.11",
-        "pestphp/pest": "^3.2",
+        "pestphp/pest": "^3.5",
         "nunomaduro/collision": "^8.4"
     },
     "config": {
